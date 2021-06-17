@@ -11,6 +11,7 @@ body, html {
   h1 {
     font-family: 'Baloo Tammudu 2', cursive;
     font-weight: normal;
+    font-size: 80px;
     font-style: normal;
     color: white;
     text-align: center;
@@ -38,7 +39,6 @@ button {
     margin: 0;
     position: absolute;
     left: 50%;
-    font-size: 80px;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
