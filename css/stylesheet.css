@@ -22,7 +22,9 @@ body, html {
     font-size: 20px;
   }
 button {
-    font-family: 'Cute';
+    font-family: 'BalooTammudu2-ExtraBold';
+    font-weight: normal;
+    font-style: normal;
     background-color: #7289da;
     border-radius: 14px;
     border: none;
