@@ -38,7 +38,7 @@ body, html {
     font-size: 67px;
     margin: 0;
     position: absolute;
-    left: 40%;
+    left: 51%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
@@ -54,9 +54,9 @@ body, html {
     display: inline-block;
     font-size: 67px;
     margin: 0;
-    margin-top: -35px;
+    margin-top: -36px;
     position: absolute;
-    left: 60%;
+    left: 70%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
@@ -110,4 +110,49 @@ body, html {
     left: 75%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+}
+#features {
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-style: normal;
+    background-color: #7289da;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 67px;
+    margin: 0;
+    margin-top: -70px;
+    position: absolute;
+    left: 32%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#ftext {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    margin-top: -300px;
+}
+#ftext2 {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+}
+#ftext3 {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+}
+#back {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
 }
