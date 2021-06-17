@@ -6,15 +6,8 @@ body, html {
     justify-content: center;     
     margin: 0
   }
-@font-face {
-    font-family: 'BalooTammudu2-ExtraBold';
-    src: url('fonts/BalooTammudu2-ExtraBold.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
   h1 {
-    font-family: 'BalooTammudu2-ExtraBold';
+    font-family: Roboto;
     font-weight: normal;
     font-style: normal;
     color: white;
@@ -22,15 +15,15 @@ body, html {
   }
   
   p {
+    font-family: Roboto;
     color: white;
     text-align: center;
-    font-family: 'BalooTammudu2-ExtraBold';
     font-weight: normal;
     font-style: normal;
     font-size: 20px;
   }
 button {
-    font-family: 'BalooTammudu2-ExtraBold';
+    font-family: Roboto;
     font-weight: normal;
     font-style: normal;
     background-color: #7289da;
@@ -39,5 +32,10 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 67px;	
+    font-size: 67px;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
