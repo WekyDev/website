@@ -60,3 +60,54 @@ body, html {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+#home {
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 0;
+    margin-top: -660px;
+    position: absolute;
+    left: 94%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#npm {
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 0;
+    margin-top: -660px;
+    position: absolute;
+    left: 85%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#support {
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 0;
+    margin-top: -660px;
+    position: absolute;
+    left: 75%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
