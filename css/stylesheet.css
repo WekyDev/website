@@ -6,21 +6,27 @@ body, html {
     justify-content: center;     
     margin: 0
   }
+@font-face {
+    font-family: "Cute";
+    src: url('fonts/cute.ttf') format('ttf');
+    color:rgb(65, 65, 65);
+    font-weight: bold;
+}
   h1 {
     color: white;
     text-align: center;
   }
   
   p {
-    font-family: verdana;
+    font-family: 'Cute';
     font-size: 20px;
   }
 button {
-    font-family: 'Bold'; font-weight: normal; font-style: normal;
-    background-color: #555555;
+    font-family: 'Cute';
+    background-color: #242424;
     border: none;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;	
+    font-size: 67px;	
 }
