@@ -7,10 +7,11 @@ body, html {
     margin: 0
   }
 @font-face {
-    font-family: "Cute";
-    src: url('fonts/cute.ttf') format('ttf');
-    color:rgb(65, 65, 65);
-    font-weight: bold;
+    font-family: 'BalooTammudu2-ExtraBold';
+    src: url('fonts/BalooTammudu2-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
   h1 {
     color: white;
