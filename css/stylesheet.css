@@ -25,20 +25,38 @@ body, html {
     font-style: normal;
     font-size: 40px;
   }
-button {
+#invite {
     font-family: 'Roboto';
     font-weight: normal;
     font-style: normal;
     background-color: #7289da;
-    border-radius: 18px;
+    border-radius: 10px;
     border: none;
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    font-size: 67px;
     margin: 0;
     position: absolute;
-    font-size: 80px;
-    left: 30%;
+    left: 40%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#topgg {
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-style: normal;
+    background-color: #7289da;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 67px;
+    margin: 0;
+    margin-top: -35px;
+    position: absolute;
+    left: 60%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
