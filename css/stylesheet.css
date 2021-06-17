@@ -15,3 +15,12 @@ body, html {
     font-family: verdana;
     font-size: 20px;
   }
+button {
+    font-family: 'Roboto'; font-weight: normal; font-style: normal;
+    background-color: #555555;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;	
+}
