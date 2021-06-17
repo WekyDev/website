@@ -14,12 +14,19 @@ body, html {
     font-display: swap;
 }
   h1 {
+    font-family: 'BalooTammudu2-ExtraBold';
+    font-weight: normal;
+    font-style: normal;
     color: white;
     text-align: center;
   }
   
   p {
-    font-family: 'Cute';
+    color: white;
+    text-align: center;
+    font-family: 'BalooTammudu2-ExtraBold';
+    font-weight: normal;
+    font-style: normal;
     font-size: 20px;
   }
 button {
