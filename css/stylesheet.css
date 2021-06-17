@@ -23,7 +23,7 @@ body, html {
     text-align: center;
     font-weight: normal;
     font-style: normal;
-    font-size: 20px;
+    font-size: 40px;
   }
 button {
     font-family: 'Roboto';
@@ -37,7 +37,8 @@ button {
     display: inline-block;
     margin: 0;
     position: absolute;
-    left: 50%;
+    font-size: 80px;
+    left: 30%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
